@@ -39,7 +39,7 @@ function App() {
 
     setUsers([...users, newUser]);
 
-    // Clear the form
+    
     name.current.value = "";
     email.current.value = "";
     age.current.value = "";
