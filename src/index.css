@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+form-group {
+  margin-bottom: 20px;
+}
+
+form label,
+form input {
+  display: block;
+  margin-bottom: 8px;
+}
