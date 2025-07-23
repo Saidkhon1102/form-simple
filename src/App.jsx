@@ -48,7 +48,7 @@ function App() {
   return (
     <div className="center-container">
       <form onSubmit={handeSubmit}>
-        <div className="form-group">
+        <div className=" text-amber-200 form-group">
           <label htmlFor="">name</label>
           <input type="text" ref={name} />
         </div>
